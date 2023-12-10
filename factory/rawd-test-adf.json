@@ -1,0 +1,9 @@
+{
+	"name": "rawd-test-adf",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "879298fe-9f12-46f0-96fb-f402ebc2f46d",
+		"tenantId": "56fe107c-262c-46f2-97b6-da107d690086"
+	}
+}
